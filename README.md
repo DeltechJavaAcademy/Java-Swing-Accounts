@@ -6,14 +6,14 @@ Your goal is to implement the functionality for the model of a bank account syst
 <ul>
   <li>The user should see the following accounts when the start the application:</li>
   <ul>
-    <li>A checkings account should have 0% interest rate</li>
-    <li>A savings account should have 1% interest rate</li>
-    <li>A mortgage should have 3% interest rate and should not allow withdraws</li>
-    <li>A trust should appreciate at a 2% rate and should not allow deposits</li>
-    <li>A 401k should appreciate at a 5% rate and should not allow withdraws</li>
-    <li>A credit card should have 15% interest rate</li>
-    <li>When the user clicks next month, the system should apply interest to all the accounts</li>
+    <li>Checkings: 0% interest rate, $1000 starting balance</li>
+    <li>Savings: 1% interest rate, $0 starting balance</li>
+    <li>Mortgage: 3% interest rate, $200000 starting balance</li>
+    <li>Trust: 5% appreciation rate, $100000 starting balance</li>
+    <li>401k: 4% interest rate, $500 starting balance</li>
+    <li>Credit Card: 15% interest rate, $200 starting balance</li>
   </ul>
+  <li>When the user clicks next month, the system should apply interest to all the accounts</li>
 </ul>
 <h3>Mock Ups</h3>
 <img src="https://drive.google.com/uc?export=view&id=1kYKqzbyezM8DjMLYRZI6cCAveYsYzb_B" width=300px height=300px/>
