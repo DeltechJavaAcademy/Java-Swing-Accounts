@@ -4,7 +4,7 @@ Your goal is to implement the functionality for the model of a bank account syst
 
 <h3>Requirements</h3>
 <ul>
-  <li>The user should see the following accounts when the start the application:</li>
+  <li>The user can see the following accounts when the start they application:</li>
   <ul>
     <li>Checkings: 0% interest rate, $1000 starting balance</li>
     <li>Savings: 1% interest rate, $0 starting balance</li>
@@ -13,10 +13,13 @@ Your goal is to implement the functionality for the model of a bank account syst
     <li>401k: 4% interest rate, $500 starting balance</li>
     <li>Credit Card: 15% interest rate, $200 starting balance</li>
   </ul>
+  <li>The user can see the total of all the account balances</li>
+  <li>The user can see the current date</li>
+  <li>The user can be able to crete a transfer</li>
+  <li>The user can see the transfer take effect on the account balances when they click the transfer button</li> 
   <li>When the user clicks next month, the system should apply interest to all the accounts</li>
+  <li>When the user clicks next month, the system should add $1000 dollars to the users Checking account</li>
 </ul>
 <h3>Mock Ups</h3>
-<img src="https://drive.google.com/uc?export=view&id=1kYKqzbyezM8DjMLYRZI6cCAveYsYzb_B" width=300px height=300px/>
 <h3>Model</h3>
-<img src="https://drive.google.com/uc?export=view&id=1kYKqzbyezM8DjMLYRZI6cCAveYsYzb_B" width=300px height=300px/>
 
