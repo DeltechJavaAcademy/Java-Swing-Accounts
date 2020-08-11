@@ -21,5 +21,6 @@ Your goal is to implement the functionality for the model of a bank account syst
   <li>When the user clicks next month, the system should add $1000 dollars to the users Checking account</li>
 </ul>
 <h3>Mock Ups</h3>
+TODO
 <h3>Model</h3>
-
+TODO
